@@ -19,7 +19,7 @@ export default function SobreMim() {
       <div className="flex gap-6 mb-6">
         <div className="w-20 h-20 rounded-full overflow-hidden border-1 border-green-950">
           <Image
-            src="/perfil.png"
+            src="/perfil.png.JPG"
             alt="Perfil"
             width={80}
             height={80}
