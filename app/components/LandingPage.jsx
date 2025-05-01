@@ -9,6 +9,7 @@ export default function LandingPage() {
 
 
             <div className="flex justify-end space-x-8 text-sm">
+                <a href="/Ideias" className="hover:underline">Ideias</a>
                 <a href="/Projetos" className="hover:underline">Projetos</a>
                 <a href="/Sobre" className="hover:underline">Sobre mim</a>
             </div>
