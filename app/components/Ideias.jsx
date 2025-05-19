@@ -17,6 +17,10 @@ const projetos = [
     titulo: "Logo de energia sustentável",
     imagem: "/Energy.jpg",
   },
+  {
+    titulo: "Loja de Camping",
+    imagem: "/mt.png",
+  },
 ];
 
 export default function ProjetosPage() {
