@@ -28,7 +28,7 @@ export default function SobreMim() {
         </div>
         <div className="w-20 h-20 rounded-full overflow-hidden border-0 border-white">
           <Image
-            src="/logo.png"
+            src="/vm1.png"
             alt="Logo"
             width={100}
             height={100}
@@ -62,10 +62,10 @@ export default function SobreMim() {
 
       <h2 className="text-2xl font-semibold mb-4">Contatos</h2>
       <div className="flex justify-center gap-10">
-        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/vinicius-mendes-b1b785361/?trk=opento_sprofile_topcard" target="_blank" rel="noopener noreferrer">
           <Image src="/link.svg" alt="LinkedIn" width={40} height={40} />
         </a>
-        <a href="https://www.instagram.com/viniciusm056/?next=%2F" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.instagram.com/viniciusmendesdesigner/?next=%2F" target="_blank" rel="noopener noreferrer">
           <Image src="/instagram.svg" alt="Instagram" width={40} height={40} />
         </a>
       </div>

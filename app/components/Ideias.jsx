@@ -21,6 +21,10 @@ const projetos = [
     titulo: "Loja de Camping",
     imagem: "/mt.png",
   },
+   {
+    titulo: "Titto’s Fritzzaria.png",
+    imagem: "/Titto’s Fritzzaria.png",
+  },
 ];
 
 export default function ProjetosPage() {
