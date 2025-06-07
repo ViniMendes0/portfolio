@@ -22,7 +22,7 @@ const projetos = [
     imagem: "/mt.png",
   },
    {
-    titulo: "Titto’s Fritzzaria.png",
+    titulo: "Titto’s Fritzzaria",
     imagem: "/Titto’s Fritzzaria.png",
   },
 ];
