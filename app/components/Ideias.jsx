@@ -14,8 +14,8 @@ const projetos = [
     imagem: "/Arquit.png",
   },
   {
-    titulo: "Logo de energia sustentável",
-    imagem: "/Energy.jpg",
+    titulo: "Logo Coffee Talk",
+    imagem: "/coffetalk.png",
   },
   {
     titulo: "Loja de Camping",
