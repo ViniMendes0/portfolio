@@ -25,6 +25,10 @@ const projetos = [
     titulo: "Titto’s Fritzzaria",
     imagem: "/Titto’s Fritzzaria.png",
   },
+    {
+    titulo: "Logo para uma equipe de futebol",
+    imagem: "/furia.png",
+  },
 ];
 
 export default function ProjetosPage() {
